@@ -1,0 +1,9 @@
+{
+	"name": "semver-console",
+	"version": "0.0.0",
+	"description": "package which just outputs its version as a console log",
+	"main": "index.js",
+	"license": "MIT",
+	"repository": "https://github.com/tnrich/semver-console.git",
+	"author": "Thomas Rich <trich1230@gmail.com>"
+}
