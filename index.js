@@ -1,1 +1,1 @@
-console.log('SEMVER: 0.0.0')
+console.log('SEMVER: 1.0.0')
